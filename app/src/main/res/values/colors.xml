@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand color: rare vibrant purple -->
+    <color name="purple_primary">#7C1FA8</color>
+    <color name="purple_dark">#5B1485</color>
+    <color name="purple_light">#A21CAF</color>
+    <color name="purple_accent">#C026D3</color>
+
+    <!-- Dark theme colors -->
+    <color name="dark_background">#0F0F1A</color>
+    <color name="dark_surface">#1A1A2E</color>
+    <color name="dark_surface_variant">#252540</color>
+    <color name="dark_on_background">#FAFAFA</color>
+    <color name="dark_on_surface">#FFFFFF</color>
+    <color name="dark_on_surface_variant">#B0B0C0</color>
+    <color name="dark_outline">#3A3A55</color>
+
+    <!-- Light theme colors -->
+    <color name="light_background">#FAFAFA</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_surface_variant">#F0F0F5</color>
+    <color name="light_on_background">#1A1A1A</color>
+    <color name="light_on_surface">#000000</color>
+    <color name="light_on_surface_variant">#5A5A5A</color>
+    <color name="light_outline">#D0D0D5</color>
+
+    <!-- Splash screen -->
+    <color name="splash_background">#7C1FA8</color>
+</resources>

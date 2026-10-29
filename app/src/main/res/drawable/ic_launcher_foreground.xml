@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Z letter centered within safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 38,40 L 70,40 L 70,48 L 48,68 L 70,68 L 70,76 L 38,76 L 38,68 L 60,48 L 38,48 Z" />
+    <!-- Tiny accent dot top-right (signature mark) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 72,38 m 0,2.5 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0" />
+</vector>
