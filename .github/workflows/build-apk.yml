@@ -62,6 +62,10 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x ./gradlew
 
+      - name: Run Unit Tests
+        run: ./gradlew testDebugUnitTest --stacktrace --no-daemon
+        timeout-minutes: 15
+
       - name: Build Debug APK
         run: ./gradlew assembleDebug --stacktrace --no-daemon
         timeout-minutes: 30
